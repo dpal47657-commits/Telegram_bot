@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ================= CONFIG =================
 
-BOT_TOKEN = "8520550311:AAFeKuzN3z0sEHUaplrNq8r4LTKu1EXOuPQ"
+BOT_TOKEN = ""
 CHANNEL_ID = "@grabdeals_india"
 
 bot = Bot(BOT_TOKEN)
